@@ -1,5 +1,6 @@
 # DLSDetectorApp
-An android app, what implements Firebase Live Labeling and Live Detection
+Android app for real-time image detection & classification.
+Uses Google Firebase ML Kit.
 
 # Bring this app to live
 This app works but requires a Firebase project to compile. 
